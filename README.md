@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently mostly working on school<br>🌱 I’m currently learning C++, HTML and CSS<br>💬 Ask me about Linux
+🔭 I’m currently mostly working on school Projects<br>🌱 I’m currently learning C++, HTML and CSS<br>💬 Ask me about Linux
 
 
 # 💻 Tech Stack:
