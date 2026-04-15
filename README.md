@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently in school in Hesse, Germany<br>I Learn C++ in school sometimes also other languages that I find interesting<br>I most of the time write tools that have to do with images like converting them to ASCII<br>I have dyslexia so if you find spelling or grammar mistakes pleas say so :)<br>Also English is not my Mother tongue<br>*Don't* ask Questions about my Testing images or GIFs :3
+I'm currently in school in Hesse, Germany<br>I Learn C++ in school sometimes also other languages that I find interesting<br>I most of the time write tools that have to do with images like converting them to ASCII<br>I have dyslexia so if you find spelling or grammar mistakes please say so :)<br>Also English is not my Mother tongue<br>*Don't* ask Questions about my Testing images or GIFs :3
 
 
 # 💻 Tech Stack:
