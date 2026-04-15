@@ -9,10 +9,4 @@ I'm currently in school in Hesse, Germany<br>I Learn C++ in school sometimes als
 ![](https://streak-stats.demolab.com/?user=tiberias23&theme=discord_old_blurple&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tiberias23&theme=discord_old_blurple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tiberias23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=tiberias23&icon=2&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
